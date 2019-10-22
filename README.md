@@ -2,9 +2,9 @@
 
 ## Ссылки
 
-[Запись встречи FHIR Ru посвященная обмену лабораторными исследованиями](https://www.youtube.com/watch?v=uZv4l2iIHrE&feature=youtu.be)
-[НСИ Минздрава](https://nsi.rosminzdrav.ru/#!/refbook)
-[Руководство по реализации СЭМД «Протокол лабораторного исследования» в формате CDA R2-2009](http://portal.egisz.rosminzdrav.ru/materials/2939)
+* [Запись встречи FHIR Ru посвященная обмену лабораторными исследованиями](https://www.youtube.com/watch?v=uZv4l2iIHrE&feature=youtu.be)
+* [НСИ Минздрава](https://nsi.rosminzdrav.ru/#!/refbook)
+* [Руководство по реализации СЭМД «Протокол лабораторного исследования» в формате CDA R2-2009](http://portal.egisz.rosminzdrav.ru/materials/2939)
 
 ## Решения первой встречи
 
