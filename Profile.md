@@ -1,0 +1,1 @@
+![ProfileAsPD](/assets/MinzdravOakPD.png)
